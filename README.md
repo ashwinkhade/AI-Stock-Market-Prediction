@@ -258,7 +258,7 @@ This project demonstrates:
 
 **Ashwin Khade**
 - GitHub: [@ashwinkhade](https://github.com/ashwinkhade)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ashwin-khade05)
+- LinkedIn: [ashwin-khade05](https://www.linkedin.com/in/ashwin-khade05)
 - Email: ashwinkhade@email.com
 
 ---
