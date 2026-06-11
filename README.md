@@ -11,7 +11,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-1.26-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Plotly](https://img.shields.io/badge/Plotly-5.18-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/AI-Stock-Market-Prediction?style=for-the-badge&logo=github)](https://github.com/yourusername/AI-Stock-Market-Prediction)
+[![GitHub Stars](https://img.shields.io/github/stars/ashwinkhade/AI-Stock-Market-Prediction?style=for-the-badge&logo=github)](https://github.com/ashwinkhade/AI-Stock-Market-Prediction)
 
 <br/>
 
@@ -115,7 +115,7 @@ AI-Stock-Market-Prediction/
 ### 1 · Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/AI-Stock-Market-Prediction.git
+git clone https://github.com/ashwinkhade/AI-Stock-Market-Prediction.git
 cd AI-Stock-Market-Prediction
 ```
 
@@ -256,10 +256,10 @@ This project demonstrates:
 
 ## 👤 Author
 
-**Your Name**
+**Ashwin Khade**
 - GitHub: [@ashwinkhade](https://github.com/ashwinkhade)
-- LinkedIn: [ashwin_khade05](https://www.linkedin.com/in/ashwin-khade05)
-- Email: ashwinkhade467@gmail.com 
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ashwin-khade05)
+- Email: ashwinkhade@email.com
 
 ---
 
@@ -278,3 +278,4 @@ If this project helped you, please give it a ⭐ on GitHub!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:3FB950&height=100&section=footer" width="100%"/>
 
 </div>
+
