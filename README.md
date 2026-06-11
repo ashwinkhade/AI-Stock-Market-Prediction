@@ -257,9 +257,9 @@ This project demonstrates:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/ashwinkhade)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ashwin-khade05)
+- Email: ashwinkhade467@gmail.com 
 
 ---
 
